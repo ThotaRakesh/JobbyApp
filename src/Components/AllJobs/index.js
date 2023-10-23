@@ -240,7 +240,7 @@ class AllJobs extends Component {
             type="button"
             onClick={this.onRetryJobs}
           >
-            retry
+            Retry
           </button>
         </div>
       </div>

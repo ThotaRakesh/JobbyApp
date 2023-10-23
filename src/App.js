@@ -1,10 +1,10 @@
 import {Route, Switch, Redirect} from 'react-router-dom'
-import AboutJob from './components/AboutJob'
-import AllJobs from './components/AllJobs'
-import Home from '/components/Home'
-import ProtectedRoute from './components/ProtectedRoute'
-import NotFound from './components/NotFound'
-import LoginForm from './components/LoginForm'
+import AboutJob from './Components/AboutJob'
+import AllJobs from './Components/AllJobs'
+import Home from './Components/Home'
+import ProtectedRoute from './Components/ProtectedRoute'
+import NotFound from './Components/NotFound'
+import LoginForm from './Components/LoginForm'
 
 import './App.css'
 

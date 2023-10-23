@@ -94,7 +94,8 @@ class AboutJob extends Component {
         companyLogoUrl,
         companyWebsiteUrl,
         employmentType,
-
+        // eslint-disable-next-line
+        id,
         jobDescription,
         lifeAtCompany,
         location,
